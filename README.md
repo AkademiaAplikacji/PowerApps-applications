@@ -3,12 +3,12 @@
 ## Upublicznianie tajnych dokumentów
 Aplikacja do upubliczniania dokumentów dla zarządu.
 
-###Opis scenariusza
+### Opis scenariusza
 W zespole Teams Zarządu dostęp do zespołu często mają ich asystenci oraz starsi kierownicy. 
 Natomiast Zarząd często pracuje nad opracowaniem projektów i strategii w tajemnicy przed innymi do czasu upublicznienia informacji. 
 I właśnie do upublicznienia tych dokumentów służy aplikacja.
 
-###Funkcje
+### Funkcje
 - możliwość przeglądu wszystkich dokumentów i upublicznienie tych wybranych
 - proces upubliczniania wymaga aby każdy członek zarządu wyraził zgodę. 
 - każdy z głosujących może wyrazić zgodę na upublicznienie, sprzeciw oraz dodać komentarz do swojej decyzji
@@ -16,7 +16,7 @@ I właśnie do upublicznienia tych dokumentów służy aplikacja.
 - możliwość przeglądu historii głosowania
 - poddanie dokumentu kolejnegmu głosowaniu nie nadpisuje historii poprzednich wyników
 
-###Architektura rozwiązania
+### Architektura rozwiązania
 - 1 zespół Teams
 - 1 kanał zwykły, 1 kanał prywatny
 - 2x biblioteki dokumentów (po jednej na kanał)
