@@ -6,7 +6,7 @@ W zespole Teams Zarządu dostęp do zespołu często mają ich asystenci oraz st
 Natomiast Zarząd często pracuje nad opracowaniem projektów i strategii w tajemnicy przed innymi do czasu upublicznienia informacji. 
 I właśnie do upublicznienia tych dokumentów służy aplikacja.
 
-<img src="images/img1.png">
+<img src="Images/img1.png">
 <img src="Images/img2.png">
 
 ### Funkcje
