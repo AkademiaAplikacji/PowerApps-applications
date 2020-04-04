@@ -1,4 +1,4 @@
-# PowerApps-applications
+# Aplikacje PowerApps
 
 ## Upublicznianie tajnych dokumentów
 Aplikacja do głosowania za upublicznieniem tajnych dokumentów zarządu.
