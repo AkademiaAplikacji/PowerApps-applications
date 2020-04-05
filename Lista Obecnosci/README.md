@@ -15,13 +15,13 @@ Szkoły w związku z przeniesieniem lekcji do wersji online wciąż chciałby mi
 ### Funkcje
 
 Perspektywa Ucznia
-	• Codzienny email z prośbą o potwierdzenie obecności
-	• Możliwość dodanie komentarza dla Wychowawcy
-	• Potwierdzenie obecności 
+- Codzienny email z prośbą o potwierdzenie obecności
+- Możliwość dodanie komentarza dla Wychowawcy
+- Potwierdzenie obecności 
 Perspektywa Nauczyciela
-	• Codzienny raport z obecnością klasy otrzymany and maila
-	• Aplikacja z listą obecnością klasy
-	• Możliwość odczytania komentarzy Uczniów w aplikacji
+- Codzienny raport z obecnością klasy otrzymany and maila
+- Aplikacja z listą obecnością klasy
+- Możliwość odczytania komentarzy Uczniów w aplikacji
 	
 ### Architektura rozwiązania
 
