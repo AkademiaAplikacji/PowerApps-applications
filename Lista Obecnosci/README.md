@@ -24,12 +24,11 @@ Perspektywa Nauczyciela
 - Możliwość odczytania komentarzy Uczniów w aplikacji
 	
 ### Architektura rozwiązania
+- 1 witryna SharePoint
+- 2 listy SharePoint
+- 1 Flow Power Automate
+- 1 Aplikacja Power Apps
 
-	- 1 SharePoint site 
-	- 2 SharePoint listy
-	- 1 Power Automate Flow
-	- 1 Power Apps
-	
 ### Instrukcja instlacji
 [Instrukcja instalacji](https://youtu.be/F6tS4PzYGmM)  
 
