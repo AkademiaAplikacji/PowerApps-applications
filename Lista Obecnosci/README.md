@@ -9,6 +9,7 @@ Szkoły w związku z przeniesieniem lekcji do wersji online wciąż chciałby mi
 
 <img src="Images/ObecnosciS1.png">
 <img src="Images/ObecnosciS3.png">
+<img src="Images/ObecnosciS5.png">
 <img src="Images/ObecnosciS6.png">
 
 ### Funkcje
@@ -21,10 +22,14 @@ Perspektywa Nauczyciela
 	• Codzienny raport z obecnością klasy otrzymany and maila
 	• Aplikacja z listą obecnością klasy
 	• Możliwość odczytania komentarzy Uczniów w aplikacji
+	
 ### Architektura rozwiązania
-	• 1 SharePoint site 
-	• 2 SharePoint listy
-	• 1 Power Automate Flow
-  
+
+	- 1 SharePoint site 
+	- 2 SharePoint listy
+	- 1 Power Automate Flow
+	- 1 Power Apps
+	
 ### Instrukcja instlacji
-[Instrukcja instalacji](https://youtu.be/F6tS4PzYGmM)
+[Instrukcja instalacji](https://youtu.be/F6tS4PzYGmM)  
+
