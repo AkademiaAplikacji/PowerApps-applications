@@ -4,8 +4,10 @@ Aplikacja do sprawdzania obecności w szkołach.
 ### Opis scenariusza
 
 Szkoły w związku z przeniesieniem lekcji do wersji online wciąż chciałby mieć informację czy Uczniowie są obecni. Aplikacja tak każdego dnia pozwala na wysłanie informacji do Wychowacy oraz potwierdzeniu obecności przez Ucznia.
+
 [Intro do applikacji](https://youtu.be/xsnJdSmDLgg)
-<img src="/Images/ObecnosciS1.png">
+
+<img src="Images/ObecnosciS1.png">
 
 ### Funkcje
 
