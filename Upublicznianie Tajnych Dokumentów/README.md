@@ -25,3 +25,6 @@ I właśnie do upublicznienia tych dokumentów służy aplikacja.
 - 1 PowerApps który z interfejsem głosowania
 - 1 PowerAutomate który obsługuje proces głosowania
 - 1 grupa Office365 która przechowuje informacje o użytkownikach mających dostęp do tajnych informacji
+
+## Instrukcja Instalacji
+Aplikacja jest częścią kursu "PowerApps w Office365" - po więcej informacji zapraszamy do kontaktu kontakt@AkademiaAplikacji.pl
