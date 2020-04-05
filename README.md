@@ -1,11 +1,12 @@
 # Aplikacje PowerApps
 
-## Upublicznianie tajnych dokumentów
-Aplikacja do głosowania za upublicznieniem tajnych dokumentów zarządu.
+<h2 style="clear:both">Upublicznianie tajnych dokumentów</h2>
+<div style="float:left;width:50%">Aplikacja do głosowania za upublicznieniem tajnych dokumentów zarządu.
 
-<img src="Upublicznianie%20Tajnych%20Dokumentów/Images/img1.png">
+
 <a href="Upublicznianie%20Tajnych%20Dokumentów/README.md">przeczytaj pełny opis</a>
-
+</div>
+<div style="float:right;width:50%"><img src="Upublicznianie%20Tajnych%20Dokumentów/Images/img1.png"></div>
 ## Lista obecności
 Aplikacja służy Nauczycielom do sprawdzania obecności ucznia.
 
