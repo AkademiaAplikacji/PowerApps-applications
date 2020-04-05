@@ -29,5 +29,8 @@ Perspektywa Ucznia
 - 1 Aplikacja Power Apps
 
 ### Instrukcja instalacji
-[Instrukcja instalacji](https://youtu.be/F6tS4PzYGmM)  
+Pobierz pliki
+1. [Obecnosc_App_20200323202102.zip](https://github.com/AkademiaAplikacji/PowerApps-applications/blob/master/Lista%20Obecnosci/Obecnosc_App_20200323202102.zip)
+2. [Obecnosc_Flow_20200323201720.zip](https://github.com/AkademiaAplikacji/PowerApps-applications/blob/master/Lista%20Obecnosci/Obecnosc_Flow_20200323201720.zip)
+3. Podążaj za instrukcją: [Instrukcja instalacji](https://youtu.be/F6tS4PzYGmM)  
 
