@@ -13,22 +13,21 @@ Szkoły w związku z przeniesieniem lekcji do wersji online wciąż chciałby mi
 <img src="Images/ObecnosciS6.png">
 
 ### Funkcje
-
-Perspektywa Ucznia
-- Codzienny email z prośbą o potwierdzenie obecności
-- Możliwość dodanie komentarza dla Wychowawcy
-- Potwierdzenie obecności 
 Perspektywa Nauczyciela
 - Codzienny raport z obecnością klasy otrzymany and maila
 - Aplikacja z listą obecnością klasy
 - Możliwość odczytania komentarzy Uczniów w aplikacji
-	
+
+Perspektywa Ucznia
+- Codzienny email z prośbą o potwierdzenie obecności
+- Możliwość dodania komentarza dla Wychowawcy
+- Potwierdzenie obecności 	
 ### Architektura rozwiązania
 - 1 witryna SharePoint
 - 2 listy SharePoint
 - 1 Flow Power Automate
 - 1 Aplikacja Power Apps
 
-### Instrukcja instlacji
+### Instrukcja instalacji
 [Instrukcja instalacji](https://youtu.be/F6tS4PzYGmM)  
 
